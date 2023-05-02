@@ -1,0 +1,30 @@
+/* Odd Numbered Elements: light red/pink background, list of fonts (Verdana, DejaVu Sans, sans-serif) */
+
+.odd {
+    background-color: rgb(255, 127, 127);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+/* Second Element: blue text, font size 36px */
+
+#second {
+    color: rgb(10, 10, 127);
+    font-size: 36px;
+}
+
+
+/* Third Element: font size 24px */
+
+.third {
+    font-size: 24px;
+}
+
+
+/* Fourth Element: light green background, font size 24px, bold */
+
+#fourth {
+    background-color: rgb(127, 255, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
